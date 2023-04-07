@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VaibhavKukreti-Kathud
-- 👀 I’m interested in competitive programming and designing
+- 👋 Hi, I’m Vaibhav Kukreti
+- 👀 vaibhavkukreti-kathud.github.io 
 - 🌱 I’m currently learning flutter and dart
 - 📫 My mail: techyvaibhav@outlook.com
 
