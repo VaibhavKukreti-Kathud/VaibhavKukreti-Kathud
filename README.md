@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vaibhav Kukreti
-- 👀 [My website](vaibhavkukreti-kathud.github.io) 
-- 🌱 I’m currently learning flutter and dart
+- 😅 [My website](vaibhavkukreti-kathud.github.io) (Work in progress)
 - 📫 My mail: techyvaibhav@outlook.com
 
 <!---
